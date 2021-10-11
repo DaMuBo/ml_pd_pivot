@@ -25,11 +25,6 @@
 7. load the model : new_pivot = ml_pivot.pivot_table().load_pivot("your file adress")
 8. aggregate new data : new_df_pivoted = new_pivot.transform("your dataframe with new data")
 
-## Author Information
-* Author: Daniel Müller
-* Organization: DT Technik GmbH - DBIZ
-* Contact: Daniel.mueller@telekom.de
-
 ## Dependencies:
 * Python 3.XX
 * Pandas
